@@ -1,4 +1,4 @@
-#5.2 Modifique o programa anterior para imprimir de 50 a 100
+#5.2 Modifique o programa anterior para imprimir de 50 a 100 (Pagina 85)
 
 #A variavel  x recebe o valor de 50
 x = 50
