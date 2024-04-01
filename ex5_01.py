@@ -1,5 +1,5 @@
-#5.1 - Modificar o programa anterior para exibir de 1 a 100
-
+#5.1 - Modificar o programa anterior para exibir de 1 a 100 (Pagina 85)
+ 
 #A variavel x rebece o valor 1 
 x = 1
 # Condição 'ENQUANTO' x for menor ou igual 100
